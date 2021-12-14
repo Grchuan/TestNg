@@ -21,6 +21,7 @@ public class TestCase {
         driver.findElement(By.xpath("//*[@id=\"app\"]/div/div/div[1]/div/form[1]/div[4]/div/button/span")).click();
         //driver.findElement(By.xpath("/html/body/div/section/div/aside/ul/li[4]/div/div/span")).click();
         //driver.findElement(By.xpath("/html/body/div/section/div/aside/ul/li[4]/ul/li[1]/span")).click();
+        //driver.findElement(By.xpath("/html/body/div/section/div/aside/ul/li[4]/ul/li[1]/span")).click();
         Thread.sleep(2000);
     }
     @Test
