@@ -35,6 +35,7 @@ public class TestCase {
        driver.findElement(By.xpath("/html/body/div/section/section/div[1]/header/div[2]/div/div[1]/div/div/div/div[3]/span")).click();
        //driver.findElement(By.xpath("")).click();
         //driver.findElement(By.xpath("")).click();
+        //driver.findElement(By.xpath("")).click();
     }
     @Test
     public void warehouseOut(){
